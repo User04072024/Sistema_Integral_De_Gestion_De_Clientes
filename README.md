@@ -114,4 +114,6 @@ logs/eventos.log
 
 ## Autor
 
-Desarrollado por Software FJ como proyecto académico para la UNAD.
+Desarrollado por...
+Curso Programación.
+Universidad Nacional Abierta y a Distancia (UNAD).
