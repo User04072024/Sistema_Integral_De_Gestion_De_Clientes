@@ -1,5 +1,5 @@
 """
-Ejercicio: Sistema de Gestión de Clientes, Servicios y Reservas
+Ejercicio: Sistema de Gestión de Clientes, Servicios y Reservas. Empresa: Software FJ
 Curso: Programación (213023) UNAD
 Grupo:
 """
